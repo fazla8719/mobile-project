@@ -22,3 +22,4 @@ zodi kono column soto boro hoye zay tahole sobaike same 1 ta height dite hobe
 text gulake text center class mara ucit taile r side e cole zabe na
 majhe na gele parent er height set kore dite hobe
 1tar vetor arekta dhuke gele dekhte hobe sudhu height deya kina..zodi sudhu height thake tahole setake change kore min-height korte hobe
+zodi container use na kori tahole scroll bar asar somvabona ase
