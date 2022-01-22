@@ -1,0 +1,24 @@
+row er moddhe kisu na lekhai valo khub necessary sara
+display-1 class use korle lekha boro kora jay
+list gulake ekebar e right e pathaite caile ms-auto class use korte hobe
+typography er vetore display class ta ase zetar maddhome lekha onek boro kora jay
+col er moddhe kokhono kono class add kora jabe na 
+ calc(100vh - 80px); ekhane vetorer'-' sign ta khub sensitive er age pore jayga na thakle style apply hobe na.
+ height sara align-items property kaj kore na
+ flex direction change hoile justify ebong align er effect tao opposite hoye jay
+ col-md deya tai valo
+ new web design er 100 vw ta hoy na
+ ze button gulor vetore color thake segulo ke bole fill button ebong zegulote sudhu border thake segulo ke bole outline button
+ background-size: cover; zokhon bg er image soto hoy tokhon ei style apply korle img width er sathe adjust kore nei
+ background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay; 1st e bg color marsi..er por mode ta zodi mari tahole bg puro black hoye zay..tai opacity .5 disi...mode:overlay sara img er upor black vab asbe na.
+
+kono block element er vetore thaka inline elemen ke majhe nite caile block element ke text-center kore dilei hobe. footer dekho
+
+responsive:
+min height set kora abossok zodi custom vabe ekta height deya hoy
+img ulta palta theke bacte img-fluid use korte hobe
+zodi kono column soto boro hoye zay tahole sobaike same 1 ta height dite hobe
+text gulake text center class mara ucit taile r side e cole zabe na
+majhe na gele parent er height set kore dite hobe
+1tar vetor arekta dhuke gele dekhte hobe sudhu height deya kina..zodi sudhu height thake tahole setake change kore min-height korte hobe
